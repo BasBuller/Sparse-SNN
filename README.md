@@ -1,0 +1,2 @@
+# Sparse Spiking Neural Network Library
+This library is intended to explore the options and power of pure sparse execution within a Spiking Neural Network (SNN) due to their inherent sparse signals. Besides that it is intended to experiment with the Rust language.
